@@ -1,0 +1,16 @@
+#Eclipse user-specific files
+*.project
+*.pydevproject
+*.cache
+*.settings
+
+architecture
+build
+exe
+dist
+QtUi
+Shocut_Target_Updater.egg-info
+shortcut_env
+
+__pycache__
+*.pyc
