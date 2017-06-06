@@ -4,6 +4,8 @@
 *.cache
 *.settings
 
+*.log
+
 architecture
 build
 exe
