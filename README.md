@@ -1,4 +1,4 @@
-# Windows Shortcut Manager #
+# Windows Shortcut Updater #
 
 This program updates shortcut automatic in window system. 
 
