@@ -4,7 +4,7 @@ This program updates shortcut automatic in window system.
 
 ## Why? ##
 
-The external storage device is now common. And people would like to plug the device into several different machines. But you may find that the shortcut doesn’t work anymore because the driver letter is changed. 
+The external storage device is now common. And people would like to use the device in different machines. But you may find that shortcuts inside device doesn’t work anymore because the driver letter is changed. 
 
 Or sometimes, you want to organize your file system and change the name of folder. And it is pain to change all the shortcuts pointing to the files inside the folder. 
 
